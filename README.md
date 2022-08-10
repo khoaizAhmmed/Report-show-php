@@ -11,8 +11,7 @@ and generate a report from it.</li>
 <li>CSS</li>
 </ul><ul>
 <li>php</li>
-</ul><h2>Screenshots</h2>
-<hr><p><img src="https://pasteboard.co/d6akcNB5IvKr.png" alt=""></p><p><img src="https://pasteboard.co/sQqfwgfgBton.png" alt=""></p><p><img src="https://pasteboard.co/YJNBKydRswhe.png" alt=""></p><h2>Setup</h2>
+</ul><h2>Setup</h2>
 <hr><p>Composer -&gt; https://getcomposer.org/</p><h5>Steps</h5><ul>
 <li>Download this project on your machine.</li>
 </ul><ul>
@@ -26,5 +25,10 @@ and generate a report from it.</li>
 </ul><ul>
 <li>Then go to localhost:8000 from browser.</li>
 </ul><h2>Project Status</h2>
-<hr><p>Completed</p><h2>Contact</h2>
+<hr><p>Completed</p>
+<h2>Screenshots</h2>
+<hr>
+![imgs](https://github.com/khoaizahmmed/report-show-php/blob/master/Screenshots/page1.jpg?raw=true)
+
+<h2>Contact</h2>
 <hr><p><span style="margin-right: 30px;"></span><a href="https://www.linkedin.com/in/khoaiz/"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 10%;"></a><span style="margin-right: 30px;"></span><a href="https://github.com/khoaizahmmed"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 10%;"></a></p>
